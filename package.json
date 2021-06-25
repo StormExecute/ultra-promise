@@ -1,0 +1,28 @@
+{
+  "name": "ultra-promise",
+  "version": "1.0.0",
+  "author": "cotenochek",
+  "license": "MIT",
+  "description": "Function execution task scheduler",
+  "homepage": "https://github.com/StormExecute/ultra-promise/#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StormExecute/ultra-promise.git"
+  },
+  "main": "src/index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node tests/index.js"
+  },
+  "engines": {
+    "node": ">=7.6.0"
+  },
+  "keywords": [
+    "ultra-promise",
+    "ultra",
+    "promise",
+    "task",
+    "scheduler",
+    "task-scheduler"
+  ]
+}
