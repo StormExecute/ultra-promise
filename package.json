@@ -24,5 +24,8 @@
     "task",
     "scheduler",
     "task-scheduler"
-  ]
+  ],
+  "dependencies": {
+    "fn-arg-names": "^1.0.0"
+  }
 }
